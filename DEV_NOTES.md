@@ -8,3 +8,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-24
 - Updated license year
 - Removed unused variable declarations
+
+## 2026-03-31
+- Addressed feedback from self code review
