@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-07
 - Fixed off-by-one error in loop
+
+## 2026-04-07
+- Refactored module structure for clarity
+- Reviewed security headers configuration
